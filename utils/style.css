@@ -1,0 +1,39 @@
+.head {
+    height: 100px;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.menu {
+    background: rgb(195, 195, 195);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0%;
+    display: flex;
+}
+
+.menu li {
+    text-align: center;
+    display: block;
+    padding: 10px;
+    color: rgb(14, 13, 13);
+    font-weight: 300;
+}
+
+.menu li:hover {
+    background: rgb(235, 233, 233);
+}
+
+.info {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.info p {
+    color: rgb(10, 85, 10);
+}
